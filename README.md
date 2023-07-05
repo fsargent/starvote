@@ -2,8 +2,6 @@
 
 ## A STAR Voting election tabulator
 
-## Copyright 2023 by Larry Hastings
-
 [STAR voting](https://www.starvoting.org/) is a
 relatively-new ["electoral system"](https://en.wikipedia.org/wiki/Electoral_system)--a
 method of running an election.  STAR Voting is simple--it's
